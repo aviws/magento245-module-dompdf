@@ -1,11 +1,11 @@
 {
-    "name": "weprovide/magento2-module-dompdf",
+    "name": "aviws/magento245-module-dompdf",
     "description": "Result class for rendering a PDF using Dompdf",
     "type": "magento2-module",
     "authors": [
         {
-            "email": "tim@weprovide.com",
-            "name": "Tim Neutkens"
+            "email": "viren@aviws.com",
+            "name": "Viren Dave"
         }
     ],
     "license": "MIT",
